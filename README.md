@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-IceygeloViewTool::Renderer.copyright 'Angelo Jimenez','All Rights Reserved','style="color: orange"'
+AjCopyrightTool::Renderer.copyright 'Angelo Jimenez','All Rights Reserved','style="color: orange"'
 ```
 ## Development
 
